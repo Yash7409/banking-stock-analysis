@@ -80,3 +80,9 @@ streamlit run app.py
 
 3. **Drawdown Resilience**:
    - SBI recovered swiftly from drawdowns, keeping its maximum drawdown contained at **-23.94%**, whereas HDFC Bank experienced prolonged stagnation with a max drawdown of **-28.64%**.
+  
+## 🌐 Live Project
+**Interactive Streamlit Dashboard**:
+- https://banking-stock-analysis.streamlit.app/
+
+Note: Historical performance does not guarantee future returns. The analysis is intended for educational and research purposes and should not be considered investment advice.
